@@ -1,0 +1,3 @@
+C:/Users/askub/CLionProjects/project 5to be submitted it/cmake-build-debug/CMakeFiles/project_5to_be_submitted_it.dir
+C:/Users/askub/CLionProjects/project 5to be submitted it/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/askub/CLionProjects/project 5to be submitted it/cmake-build-debug/CMakeFiles/rebuild_cache.dir
